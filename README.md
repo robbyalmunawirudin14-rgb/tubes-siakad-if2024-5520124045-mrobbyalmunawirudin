@@ -2,7 +2,7 @@
 
 ## A. Tentang Aplikasi Ini
 
-**SIAKAD (Sistem Informasi Akademik)** adalah platform web yang dibuat untuk mempermudah pengelolaan data perkuliahan di kampus. Mulai dari mengelola data dosen, mahasiswa, dan mata kuliah, mengatur jadwal belajar-mengajar, hingga proses mahasiswa mengambil mata kuliah (KRS) secara online — semuanya terintegrasi dalam satu sistem. Aplikasi ini juga telah di hosting melalui InfinityFree dengan Link sebagai Berikut : thisrobby.page.gd
+**SIAKAD (Sistem Informasi Akademik)** adalah platform web yang dibuat untuk mempermudah pengelolaan data perkuliahan di kampus. Mulai dari mengelola data dosen, mahasiswa, dan mata kuliah, mengatur jadwal belajar-mengajar, hingga proses mahasiswa mengambil mata kuliah (KRS) secara online — semuanya terintegrasi dalam satu sistem. Aplikasi ini juga telah di hosting melalui InfinityFree dengan Link sebagai Berikut : [thisrobby.page.gd](https://thisrobby.page.gd)
 
 ---
 
